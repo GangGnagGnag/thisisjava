@@ -5,7 +5,7 @@ public class Exec {
 	                CustomClass c1 = new CustomClass(1, "박창현", 28, new ProductClass[10]);       // 회원 생성과 동시에 장바구니 초기화
 	                CustomClass c2 = new CustomClass(2, "한국진", 29, new ProductClass[10]);
 	                CustomClass c3 = new CustomClass(3, "장경호", 29, new ProductClass[10]);
-
+   
 	                System.out.println("--------------------------------------");
 	                c1.customInfo();
 	                System.out.println();
