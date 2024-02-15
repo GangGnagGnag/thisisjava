@@ -8,7 +8,7 @@ public class ProductClass {
 	    int quantity;       //수량
 	    ProductClass[] shoppingBasket; //물품을 저장할 장바구니
 	    ProductClass(int id, String name, int price, int quantity){
-v  
+
 	        this.id = id;
 	        this.name = name;
 	        this.price = price;
